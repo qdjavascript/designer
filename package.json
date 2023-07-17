@@ -1,7 +1,7 @@
 {
-  "name": "@qdjavascript/ofd",
-  "version": "1.0.2",
-  "description": "ofd reader",
+  "name": "@qdjavascript/designer",
+  "version": "1.0.0",
+  "description": "ofd designer",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,7 +15,7 @@
   "keywords": [
     "typescript"
   ],
-  "homepage": "https://github.com/qdjavascript/ofd",
+  "homepage": "https://github.com/qdjavascript/designer",
   "author": "qdjavascript@gmail.com",
   "license": "ISC",
   "dependencies": {},
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qdjavascript/ofd.git"
+    "url": "git+https://github.com/qdjavascript/designer.git"
   },
   "bugs": {
-    "url": "https://github.com/qdjavascript/ofd/issues"
+    "url": "https://github.com/qdjavascript/designer/issues"
   },
   "typings": "./typings/index.d.ts"
 }
